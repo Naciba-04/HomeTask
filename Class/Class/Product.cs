@@ -13,9 +13,11 @@ namespace Class
         public double Price;
         public Product(string name, string brandName, double price)
         {
-            Name = name;
-            this.BrandName = brandName;
-            Price = price;
+            this.Name = name;
+        BrandName = brandName;
+            this.Price = price;
+
         }
     }
+
 }
