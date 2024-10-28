@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\resul\\desktop\\hometask\\exceptiontask\\exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA0C21A-8F12-4D98-9C07-64ACEE904849}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReservedDateIntervalException.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\ReservedDateIntervalException.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\ReservedDateIntervalException.cs",
@@ -49,33 +49,33 @@
               "RelativeDocumentMoniker": "ExceptionTask\\MeetingSchedule.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\MeetingSchedule.cs",
               "RelativeToolTip": "ExceptionTask\\MeetingSchedule.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T15:31:35.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\Program.cs",
-              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\Program.cs*",
-              "RelativeToolTip": "ExceptionTask\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\Program.cs",
+              "RelativeToolTip": "ExceptionTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T15:28:48.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Meeting.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\Meeting.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\Meeting.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\ExceptionTask\\ExceptionTask\\Meeting.cs",
               "RelativeToolTip": "ExceptionTask\\Meeting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T15:30:33.794Z",
               "EditorCaption": ""
