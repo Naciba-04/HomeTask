@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\resul\\desktop\\hometask\\accessmodifiers\\accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\resul\\desktop\\hometask\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\resul\\desktop\\hometask\\accessmodifiers\\accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0019B2-EECB-4BF3-A1A3-8F0062E12AC2}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "AccessModifiers\\Song.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\AccessModifiers\\AccessModifiers\\Song.cs",
               "RelativeToolTip": "AccessModifiers\\Song.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T09:28:00.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Singer.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\AccessModifiers\\AccessModifiers\\Singer.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Singer.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\AccessModifiers\\AccessModifiers\\Singer.cs",
               "RelativeToolTip": "AccessModifiers\\Singer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T09:27:44.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeToolTip": "AccessModifiers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T09:24:27.982Z",
               "EditorCaption": ""

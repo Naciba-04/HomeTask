@@ -1,0 +1,15 @@
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\bin\Debug\net8.0\indexerTask.exe
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\bin\Debug\net8.0\indexerTask.deps.json
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\bin\Debug\net8.0\indexerTask.runtimeconfig.json
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\bin\Debug\net8.0\indexerTask.dll
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\bin\Debug\net8.0\indexerTask.pdb
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.AssemblyInfo.cs
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.sourcelink.json
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.dll
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\refint\indexerTask.dll
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.pdb
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\indexerTask.genruntimeconfig.cache
+C:\Users\resul\Desktop\hometask\indexerTask\indexerTask\obj\Debug\net8.0\ref\indexerTask.dll
