@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|c:\\users\\resul\\desktop\\hometask\\generictask\\generictask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|c:\\users\\resul\\desktop\\hometask\\generictask\\generictask\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|c:\\users\\resul\\desktop\\hometask\\generictask\\generictask\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|c:\\users\\resul\\desktop\\hometask\\generictask\\generictask\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|c:\\users\\resul\\desktop\\hometask\\generictask\\generictask\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422E3D46-CD44-4710-AAD1-B58DE328E2B7}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Type.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Type.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Type.cs",
+              "RelativeToolTip": "GenericTask\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:08:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Gender.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Gender.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Gender.cs",
+              "RelativeToolTip": "GenericTask\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:05:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Food.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Food.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Food.cs*",
+              "RelativeToolTip": "GenericTask\\Food.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:03:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Animal.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Animal.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Animal.cs",
+              "RelativeToolTip": "GenericTask\\Animal.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:47:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Program.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Program.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\GenericTask\\GenericTask\\Program.cs",
+              "RelativeToolTip": "GenericTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:46:22.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

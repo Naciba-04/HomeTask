@@ -1,0 +1,15 @@
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.exe
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.deps.json
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.runtimeconfig.json
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.dll
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\bin\Debug\net8.0\GenericTask.pdb
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfo.cs
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.sourcelink.json
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.dll
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\refint\GenericTask.dll
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.pdb
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\GenericTask.genruntimeconfig.cache
+C:\Users\resul\Desktop\hometask\GenericTask\GenericTask\obj\Debug\net8.0\ref\GenericTask.dll
