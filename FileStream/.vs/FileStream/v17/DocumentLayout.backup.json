@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|c:\\users\\resul\\desktop\\hometask\\filestream\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|c:\\users\\resul\\desktop\\hometask\\filestream\\filestream\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|solutionrelative:filestream\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|c:\\users\\resul\\desktop\\hometask\\filestream\\filestream\\studentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|solutionrelative:filestream\\studentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|c:\\users\\resul\\desktop\\hometask\\filestream\\filestream\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1301AFFB-A65E-4A01-A093-305829760D1D}|FileStream\\FileStream.csproj|solutionrelative:filestream\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\StudentMethods.cs",
+              "RelativeDocumentMoniker": "FileStream\\StudentMethods.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\StudentMethods.cs",
+              "RelativeToolTip": "FileStream\\StudentMethods.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:29:46.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "FileStream\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Model\\Student.cs",
+              "RelativeToolTip": "FileStream\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:46:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "names.json",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Files\\names.json",
+              "RelativeDocumentMoniker": "FileStream\\Files\\names.json",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Files\\names.json*",
+              "RelativeToolTip": "FileStream\\Files\\names.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T11:59:57.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\FileStream\\FileStream\\Program.cs*",
+              "RelativeToolTip": "FileStream\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:58:15.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
