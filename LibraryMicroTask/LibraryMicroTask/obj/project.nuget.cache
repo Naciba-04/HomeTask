@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzJDM0VBxro=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\LibraryMicroTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

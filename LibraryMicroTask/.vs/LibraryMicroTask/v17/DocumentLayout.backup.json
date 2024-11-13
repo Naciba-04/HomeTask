@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|c:\\users\\resul\\desktop\\hometask\\librarymicrotask\\librarymicrotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|solutionrelative:librarymicrotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|c:\\users\\resul\\desktop\\hometask\\librarymicrotask\\librarymicrotask\\filefolder\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|solutionrelative:librarymicrotask\\filefolder\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|c:\\users\\resul\\desktop\\hometask\\librarymicrotask\\librarymicrotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|solutionrelative:librarymicrotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|c:\\users\\resul\\desktop\\hometask\\librarymicrotask\\librarymicrotask\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|solutionrelative:librarymicrotask\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|c:\\users\\resul\\desktop\\hometask\\librarymicrotask\\librarymicrotask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A51BA5A-CBDE-43B8-84CF-AADF686FAD67}|LibraryMicroTask\\LibraryMicroTask.csproj|solutionrelative:librarymicrotask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\FileHelper.cs",
+              "RelativeDocumentMoniker": "LibraryMicroTask\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\FileHelper.cs",
+              "RelativeToolTip": "LibraryMicroTask\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:27:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.json",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\FileFolder\\Database.json",
+              "RelativeDocumentMoniker": "LibraryMicroTask\\FileFolder\\Database.json",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\FileFolder\\Database.json",
+              "RelativeToolTip": "LibraryMicroTask\\FileFolder\\Database.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T18:55:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryMicroTask\\Library.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Library.cs",
+              "RelativeToolTip": "LibraryMicroTask\\Library.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:52:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryMicroTask\\Book.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Book.cs",
+              "RelativeToolTip": "LibraryMicroTask\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:51:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryMicroTask\\Program.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\LibraryMicroTask\\LibraryMicroTask\\Program.cs",
+              "RelativeToolTip": "LibraryMicroTask\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:48:35.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
