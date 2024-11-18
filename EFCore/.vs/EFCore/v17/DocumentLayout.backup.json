@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\exceptionreflection\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\exceptionreflection\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\migrations\\20241118162635_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\migrations\\20241118162635_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\exceptionreflection\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\exceptionreflection\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|c:\\users\\resul\\desktop\\hometask\\efcore\\efcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56647C2C-A344-49B6-978B-05039A12DC5E}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\ExceptionReflection\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "EFCore\\ExceptionReflection\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\ExceptionReflection\\ProductNotFoundException.cs",
+              "RelativeToolTip": "EFCore\\ExceptionReflection\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:29:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\ExceptionReflection\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "EFCore\\ExceptionReflection\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\ExceptionReflection\\UserNotFoundException.cs",
+              "RelativeToolTip": "EFCore\\ExceptionReflection\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:46:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sqlhelper.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Helper\\Sqlhelper.cs",
+              "RelativeDocumentMoniker": "EFCore\\Helper\\Sqlhelper.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Helper\\Sqlhelper.cs*",
+              "RelativeToolTip": "EFCore\\Helper\\Sqlhelper.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:06:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241118162635_CreateTable.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Migrations\\20241118162635_CreateTable.cs",
+              "RelativeDocumentMoniker": "EFCore\\Migrations\\20241118162635_CreateTable.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Migrations\\20241118162635_CreateTable.cs",
+              "RelativeToolTip": "EFCore\\Migrations\\20241118162635_CreateTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:26:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:17:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "EFCore\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\Basket.cs",
+              "RelativeToolTip": "EFCore\\Models\\Basket.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:55:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\Product.cs",
+              "RelativeToolTip": "EFCore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:54:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EFCore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Models\\User.cs",
+              "RelativeToolTip": "EFCore\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:53:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore\\Program.cs",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\EFCore\\EFCore\\Program.cs*",
+              "RelativeToolTip": "EFCore\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:41:53.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
