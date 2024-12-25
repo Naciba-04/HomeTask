@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -31,8 +31,8 @@
       "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,54 +46,55 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todos",
+              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
+              "RelativeDocumentMoniker": "Todos\\Todos.csproj",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
+              "RelativeToolTip": "Todos\\Todos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T21:57:28.135Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Create.cshtml",
               "RelativeDocumentMoniker": "Todos\\Views\\Todo\\Create.cshtml",
-              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Create.cshtml*",
-              "RelativeToolTip": "Todos\\Views\\Todo\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "Todos\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T22:35:04.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Index.cshtml",
               "RelativeDocumentMoniker": "Todos\\Views\\Todo\\Index.cshtml",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Index.cshtml",
               "RelativeToolTip": "Todos\\Views\\Todo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T22:21:00.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Todos\\Controllers\\TodoController.cs",
-              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\TodoController.cs*",
-              "RelativeToolTip": "Todos\\Controllers\\TodoController.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todos\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T22:11:01.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Todos",
-              "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
-              "RelativeDocumentMoniker": "Todos\\Todos.csproj",
-              "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
-              "RelativeToolTip": "Todos\\Todos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T21:57:28.135Z",
               "EditorCaption": ""
             },
             {
@@ -117,7 +118,7 @@
               "RelativeDocumentMoniker": "Todos\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Todos\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T16:11:06.242Z",
               "EditorCaption": ""

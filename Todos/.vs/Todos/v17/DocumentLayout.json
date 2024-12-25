@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\todos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|c:\\users\\resul\\desktop\\hometask\\todos\\todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D9D6C85-A43C-4392-BF2F-740415778646}|Todos\\Todos.csproj|solutionrelative:todos\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,12 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Todos",
+              "Title": "Todos.csproj",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
               "RelativeDocumentMoniker": "Todos\\Todos.csproj",
               "ToolTip": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Todos.csproj",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Create.cshtml",
               "RelativeDocumentMoniker": "Todos\\Views\\Todo\\Create.cshtml",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Todo\\Index.cshtml",
               "RelativeDocumentMoniker": "Todos\\Views\\Todo\\Index.cshtml",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Todos\\Controllers\\TodoController.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Todos\\Views\\Home\\Index.cshtml",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Todos\\Controllers\\HomeController.cs",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Program.cs",
               "RelativeDocumentMoniker": "Todos\\Program.cs",
@@ -138,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\resul\\Desktop\\hometask\\Todos\\Todos\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Todos\\Properties\\launchSettings.json",
