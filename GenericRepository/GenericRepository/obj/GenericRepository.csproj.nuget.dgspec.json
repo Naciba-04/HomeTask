@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\Desktop\\HomeWork\\GenericRepository\\GenericRepository\\GenericRepository.csproj": {}
+    "C:\\Users\\resul\\Desktop\\hometask\\GenericRepository\\GenericRepository\\GenericRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\Desktop\\HomeWork\\GenericRepository\\GenericRepository\\GenericRepository.csproj": {
+    "C:\\Users\\resul\\Desktop\\hometask\\GenericRepository\\GenericRepository\\GenericRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\Desktop\\HomeWork\\GenericRepository\\GenericRepository\\GenericRepository.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\Desktop\\hometask\\GenericRepository\\GenericRepository\\GenericRepository.csproj",
         "projectName": "GenericRepository",
-        "projectPath": "C:\\Users\\resul\\Desktop\\HomeWork\\GenericRepository\\GenericRepository\\GenericRepository.csproj",
+        "projectPath": "C:\\Users\\resul\\Desktop\\hometask\\GenericRepository\\GenericRepository\\GenericRepository.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\Desktop\\HomeWork\\GenericRepository\\GenericRepository\\obj\\",
+        "outputPath": "C:\\Users\\resul\\Desktop\\hometask\\GenericRepository\\GenericRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -19,6 +19,8 @@ namespace GenericRepository
             builder.Services.AddControllers().AddJsonOptions(x =>
             x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
             builder.Services.AddScoped<IStudentService,StudentService>();
+            //builder.Services.AddScoped<IStudentService, StudentService>();
+
             builder.Services.AddScoped<ITRepository<Student>, TRepository<Student>>();
 
             builder.Services.AddControllers();
